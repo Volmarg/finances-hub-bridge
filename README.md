@@ -1,0 +1,1 @@
+Bridge for connecting the `Finances hub` to any other project.
